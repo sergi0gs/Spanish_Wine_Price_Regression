@@ -1,3 +1,2 @@
-# Spanish_Wine_Price_Regression
+# Spanish Wine Price Regression
 
-A short description of the project.
